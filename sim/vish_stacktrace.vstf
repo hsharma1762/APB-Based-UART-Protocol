@@ -1,0 +1,299 @@
+# Current time Fri Sep 12 10:57:30 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Tue Sep 16 13:41:15 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00000283: '<unknown (@0x283)>'
+# 3    0xfffffffd: '<unknown (@0xfffffffd)>'
+# Current time Wed Sep 17 13:41:17 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Wed Sep 17 13:41:18 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Thu Sep 18 13:31:48 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Thu Sep 18 13:31:48 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# End of Stack Trace
+
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00000283: '<unknown (@0x283)>'
+# 3    0xfffffffd: '<unknown (@0xfffffffd)>'
+# Current time Thu Sep 18 13:31:51 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Thu Sep 18 13:31:51 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Mon Sep 22 17:08:48 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Mon Sep 22 17:55:24 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Mon Sep 22 17:55:24 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Mon Sep 22 17:55:24 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Mon Sep 22 17:55:25 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Mon Sep 22 17:55:25 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Mon Sep 22 18:54:34 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Mon Sep 22 18:54:34 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Mon Sep 22 18:54:34 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Tue Sep 23 17:00:32 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Tue Sep 23 17:00:33 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# Current time Tue Sep 23 17:00:33 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Wed Sep 24 19:01:42 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00000283: '<unknown (@0x283)>'
+# 3    0xfffffffd: '<unknown (@0xfffffffd)>'
+# Current time Wed Sep 24 19:01:43 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00000283: '<unknown (@0x283)>'
+# 3    0xfffffffd: '<unknown (@0xfffffffd)>'
+# Current time Wed Sep 24 19:01:44 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# Current time Wed Sep 24 19:01:45 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Thu Sep 25 12:57:28 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
+# Current time Mon Oct  6 13:04:47 2025
+# Program = vish
+# Id = "2022.1"
+# Version = "2022.01"
+# Date = "Jan 29 2022"
+# Platform = "linux"
+# 0    0xf7fcb129: '<unknown (@0xf7fcb129)>'
+# 1    0xf7fcb14b: '<unknown (@0xf7fcb14b)>'
+# 2    0x00007883: '<unknown (@0x7883)>'
+# 3    0x00000005: '<unknown (@0x5)>'
+# transcript error: error writing "stdout": I/O error
+    while executing
+"puts -nonewline stdout $s"
